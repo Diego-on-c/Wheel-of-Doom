@@ -37,4 +37,4 @@ Some points were missing because we give priority to better understand the funct
 - Berta López
 - Joan Recorda
 - Sergio Corcuera
-- Alexandra Galarza
+- María Alexandra Galarza
