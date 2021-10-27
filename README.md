@@ -7,14 +7,14 @@ Wheel of Doom
 2. [Design](#design)
 3. [Technologies](#technologies)
 4. [To do](#to-do)
-5. [Collaborators](#collaborators)
+5. [Team](#team)
 
 ***
 ## General Info
 
 The goal of the Wheel of Doom is to create a fair and random sacrifice selection system for coders, like a videogame, it's intented to kill players. It's responsive and made with html5, css3 and with a minimum of 4 functions of javascript including audio and animation.
 
-## UI Design 
+### UI Design 
 
 The design was made with figma after searching references, we wanted a videogame with old style circus characters and with some felling of terror because it is a game of killing players. 
 
@@ -32,7 +32,7 @@ We use html, css and javascript. In this project we used some JS functions and o
 
 Some points were missing because we give priority to better understand the functions and make the game work. It is missing to make a bucle for the game to continue and responsive for Desktop.
 
-## Collaborators
+## Team
 
 - Gabriela Piñeiro
 - Berta López
