@@ -24,15 +24,15 @@ The design was made with figma after searching references, we wanted a videogame
 ![Desktop - 1](https://user-images.githubusercontent.com/73828751/139092729-b1ef44bd-b790-49a7-b965-e3cfb341a87d.jpg)
 
 ## Technologies
-***
+
 We use html, css and javascript. In this project we used some JS functions and one of them is the construction of HTML which made it simpler. We use functions to kill a coder and eliminate it from the game, relive it, restart the game ... We used new css functions like animations with sound. It is responsive and was developed with a focus on mobile. We have made a TDD of the function to randomly select a player and eliminate him.
 
 ## To do
-***
+
 Some points were missing because we give priority to better understand the functions and make the game work. It is missing to make a bucle for the game to continue and responsive for Desktop.
 
 ## Collaborators
-***
+
 - Gabriela Piñeiro
 - Berta López
 - Joan Recorda
