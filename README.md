@@ -34,8 +34,9 @@ Some points were missing because we give priority to better understand the funct
 
 ## Team
 
-- Gabriela Piñeiro
-- Berta López
-- Joan Recorda
 - Sergio Corcuera
 - María Alexandra Galarza
+- Berta López
+- Gabriela Piñeiro
+- Joan Recordà
+
