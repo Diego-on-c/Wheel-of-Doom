@@ -1,4 +1,5 @@
-# Wheel of Doom
+Wheel of Doom
+============
 
 ## Table of contents
 
