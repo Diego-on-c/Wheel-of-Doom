@@ -11,7 +11,7 @@
 ## General Info
 ***
 
-The goal of the Wheel of Doom is to create a fair and random sacrifice selection system for coders, like a videogame, for to kill players. It's responsive and made with html, css and with a minimum of 4 functions of javascript.
+The goal of the Wheel of Doom is to create a fair and random sacrifice selection system for coders, like a videogame, it's intented to kill players. It's responsive and made with html, css and with a minimum of 4 functions of javascript.
 
 ## Design 
 ***
