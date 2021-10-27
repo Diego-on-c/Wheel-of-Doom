@@ -1,4 +1,4 @@
-# Wheel-of-Doom
+# Wheel of Doom
 
 ## Table of contents
 
@@ -19,7 +19,8 @@ The design was made with figma after searching references, we wanted a videogame
 
 ![Mobile](./img/Figma_Mobil.JPG)
 ![Tablet](./img/Figma_Tablet.JPG)
-![Desktop](./img/Desktop.JPG)
+![Desktop - 1](https://user-images.githubusercontent.com/73828751/139091696-1d1064a4-4ed1-45e2-94e8-d3a4c8938706.jpg)
+
 
 ## Technologies
 ***
