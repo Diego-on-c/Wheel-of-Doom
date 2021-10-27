@@ -31,8 +31,8 @@ Some points were missing because we give priority to better understand the funct
 
 ## Collaborators
 ***
-Gabriela Piñeiro,
-Berta López,
-Joan Recorda,
-Sergio Corcuera,
-Alexandra Galarza
+- Gabriela Piñeiro
+- Berta López
+- Joan Recorda
+- Sergio Corcuera
+- Alexandra Galarza
